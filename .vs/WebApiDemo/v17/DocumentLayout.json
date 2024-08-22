@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|c:\\users\\nabeelc\\onedrive - redpanda software\\desktop\\upskill\\backend\\complete web api course\\webapidemo\\webapidemo\\filters\\shirt_validateshirtidfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|solutionrelative:webapidemo\\filters\\shirt_validateshirtidfilterattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|c:\\users\\nabeelc\\onedrive - redpanda software\\desktop\\upskill\\backend\\complete web api course\\webapidemo\\webapidemo\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|solutionrelative:webapidemo\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|c:\\users\\nabeelc\\onedrive - redpanda software\\desktop\\upskill\\backend\\complete web api course\\webapidemo\\webapidemo\\models\\repositories\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|solutionrelative:webapidemo\\models\\repositories\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|c:\\users\\nabeelc\\onedrive - redpanda software\\desktop\\upskill\\backend\\complete web api course\\webapidemo\\webapidemo\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|solutionrelative:webapidemo\\models\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|c:\\users\\nabeelc\\onedrive - redpanda software\\desktop\\upskill\\backend\\complete web api course\\webapidemo\\webapidemo\\models\\validations\\shirt_ensurecorrectsizingattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|solutionrelative:webapidemo\\models\\validations\\shirt_ensurecorrectsizingattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|c:\\users\\nabeelc\\onedrive - redpanda software\\desktop\\upskill\\backend\\complete web api course\\webapidemo\\webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4205DB4-B951-4A85-A23F-401AC29F3600}|WebApiDemo\\WebApiDemo.csproj|solutionrelative:webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shirt_ValidateShirtIdFilterAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "RelativeDocumentMoniker": "WebApiDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "ToolTip": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "RelativeToolTip": "WebApiDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribute.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwCEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:46:03.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Models\\Repositories\\ShirtRepository.cs",
+              "RelativeDocumentMoniker": "WebApiDemo\\Models\\Repositories\\ShirtRepository.cs",
+              "ToolTip": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Models\\Repositories\\ShirtRepository.cs",
+              "RelativeToolTip": "WebApiDemo\\Models\\Repositories\\ShirtRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T09:10:26.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shirt_EnsureCorrectSizingAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Models\\Validations\\Shirt_EnsureCorrectSizingAttribute.cs",
+              "RelativeDocumentMoniker": "WebApiDemo\\Models\\Validations\\Shirt_EnsureCorrectSizingAttribute.cs",
+              "ToolTip": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Models\\Validations\\Shirt_EnsureCorrectSizingAttribute.cs",
+              "RelativeToolTip": "WebApiDemo\\Models\\Validations\\Shirt_EnsureCorrectSizingAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T14:48:41.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shirt.cs",
+              "DocumentMoniker": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Models\\Shirt.cs",
+              "RelativeDocumentMoniker": "WebApiDemo\\Models\\Shirt.cs",
+              "ToolTip": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Models\\Shirt.cs",
+              "RelativeToolTip": "WebApiDemo\\Models\\Shirt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T13:01:42.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShirtsController.cs",
+              "DocumentMoniker": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Controllers\\ShirtsController.cs",
+              "RelativeDocumentMoniker": "WebApiDemo\\Controllers\\ShirtsController.cs",
+              "ToolTip": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Controllers\\ShirtsController.cs",
+              "RelativeToolTip": "WebApiDemo\\Controllers\\ShirtsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T09:09:06.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\nabeelc\\OneDrive - Redpanda Software\\Desktop\\Upskill\\Backend\\Complete Web API Course\\WebApiDemo\\WebApiDemo\\Program.cs",
+              "RelativeToolTip": "WebApiDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:49:08.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

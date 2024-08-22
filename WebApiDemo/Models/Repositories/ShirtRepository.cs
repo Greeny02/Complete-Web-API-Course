@@ -10,6 +10,10 @@
             new Shirt{ShirtId = 4, Brand="Your Brand", Colour="Yellow", Gender="Female", Price=30, Size=9},
         };
 
+        public static List<Shirt> GetShirts()
+        {
+            return shirts;
+        }
         public static bool ShirtExists(int id)
         {
             return shirts.Any(x => x.ShirtId == id);
